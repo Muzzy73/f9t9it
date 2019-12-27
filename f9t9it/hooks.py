@@ -11,6 +11,8 @@ app_color = "grey"
 app_email = "info@9t9it.com"
 app_license = "MIT"
 
+after_install = "f9t9it.setup.install.after_install"
+
 # Includes in <head>
 # ------------------
 
